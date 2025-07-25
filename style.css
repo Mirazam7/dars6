@@ -1,0 +1,53 @@
+body{
+    background-color: #CD5D5D;
+}
+
+
+.mavzu {
+    font-style: Bold;
+    font-size: 64px;
+    text-align: center;
+    vertical-align: middle;
+    color: white;
+}   
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    font-size: 40px;
+    color: black;
+    text-decoration: none;
+}
+.boxlar{
+width: 90%;
+margin-top: 173px;
+margin-left: 166px;
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+gap: 1000px;
+margin:auto ;
+margin-top: 50px;
+}
+
+.box{
+width: 400px;
+height: 400px;
+}
+.box img{
+
+    width: 300px;
+    height: 140px;
+}
+.box-text{
+    width: 300px;
+    background-color: black;
+    color: white;
+    height: 140px;
+    text-align: center;
+    padding-top: 0.1px;
+}
